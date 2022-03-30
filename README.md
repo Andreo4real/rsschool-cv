@@ -1,1 +1,2 @@
-https://andreo4real.github.io/rsschool-cv/cv
+https://andreo4real.github.io/rsschool-cv/
+
