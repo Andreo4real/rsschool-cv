@@ -1,0 +1,80 @@
+body  {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    width: 1000px;
+    margin: auto;
+}
+
+.photo {
+    border-radius: 10px;
+    float: left;
+}
+
+.menu {
+    margin: 0; /* Обнуляем значение отступов */
+    padding: 4px; /* Значение полей */
+    margin: auto;
+    text-align: center;
+}
+
+.menu ul {
+    padding: 0;
+}
+
+.menu li {
+    display: inline; /* Отображать как строчный элемент */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    border-radius: 5px;
+    padding: 4px; /* Поля вокруг текста */
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu li a {
+    text-decoration: none;
+}
+
+.main-header {
+    margin-top: 25px;
+    border: solid #aaaaaa;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(243, 243, 243);
+}
+
+h1 {
+    letter-spacing: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 10%;
+}
+
+.theader {
+    margin: auto;
+}
+
+.contact_links {
+    list-style-type: circle;
+}
+
+.myskills {
+    list-style-type: circle;
+}
+
+.main-footer {
+    text-align: center;
+    border: solid #aaaaaa;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 5px;
+}
+
+.foot {
+    vertical-align: middle;
+}
